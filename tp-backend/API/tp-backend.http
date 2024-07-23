@@ -1,0 +1,11 @@
+@tp_backend_HostAddress = http://localhost:5243
+
+GET {{tp_backend_HostAddress}}/api/video/
+Accept: application/json
+
+###
+/// <summary>
+/// Returns a list of restaurants by city
+/// </summary>
+GET {{tp_backend_HostAddress}}/videos/1
+Accept: application/json

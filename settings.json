@@ -1,0 +1,10 @@
+{
+  "cssVariables.lookupFiles": [
+    "tp-frontend/**/*.css",
+    "tp-frontend/**/*.scss",
+    "tp-frontend/**/*.sass",
+    "tp-frontend/**/*.less",
+    "tp-frontend/node_modules/@mantine/core/styles.css"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
